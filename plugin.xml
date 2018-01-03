@@ -2,12 +2,12 @@
 
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
     xmlns:android="http://schemas.android.com/apk/res/android"
-    id="com.mercadopago.cordova.sdk"
+    id="com.mercadopago.plugin.cordova.sdk"
     version="1.1.10">
 
     <name>Mercado Pago Plugin 2</name>
 
-    <description>mercadopago-plugin fork. This plugin allows to add MercadoPago to your application using MercadoPago Native library</description>
+    <description>Mercadopago-plugin fork.  Fix original repository bugs.</description>
 
     <license>MIT License, see LICENSE.md for details</license>
 
