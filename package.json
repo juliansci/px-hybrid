@@ -1,7 +1,7 @@
 {
   "name": "mercadopago-plugin-2",
-  "version": "1.1.10",
-  "description": "mercadopago-plugin fork. This plugin allows to add MercadoPago to your application using MercadoPago Native library",
+  "version": "1.1.11",
+  "description": "mercadopago-plugin fork. Fix original repository bugs.",
   "cordova": {
     "id": "com.mercadopago.plugin.cordova.sdk",
     "platforms": [
@@ -29,11 +29,6 @@
   "bugs": {
     "url": "https://github.com/juliansci/px-hybrid/issues"
   },
-  "keywords": [
-    "ecosystem:cordova",
-    "cordova-android",
-    "cordova-ios"
-  ],
   "homepage": "https://github.com/juliansci/px-hybrid#readme",
   "dependencies": {
     "xcode": "^1.0.0"
